@@ -24,7 +24,7 @@ The functions “component_calc.m”, “average_calc.m”, “transient_simpl.m
 In turn, a thorough analysis of all the REM-sleep periods of a night sleep is obtained by running “root_function.m”. In fact, this function calls the function “epoca.m” to extract the portions of the EOG signal that correspond to the REM-sleep periods, and then calls “microstr.m” for each period.
 
 A more detailed description of the package can be found on the ISTI Open Portal:
-https://openportal.isti.cnr.it/data/2021/459327/2021_459327.pdf?id=people______%3A%3Ac2c785d4a891ba4a58fdff814b100b1d
+https://openportal.isti.cnr.it/data/2021/459327/2021_459327.pdf
 
 
 
