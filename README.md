@@ -23,3 +23,10 @@ The package consists of seven functions.
 The functions “component_calc.m”, “average_calc.m”, “transient_simpl.m”, and “segmentation.m” are successively executed for the analysis of a single REM-sleep period. All of them are called by “microstr.m”, which thus provides the thorough characterization of the microstructure of a REM-sleep period.
 In turn, a thorough analysis of all the REM-sleep periods of a night sleep is obtained by running “root_function.m”. In fact, this function calls the function “epoca.m” to extract the portions of the EOG signal that correspond to the REM-sleep periods, and then calls “microstr.m” for each period.
 
+A more detailed description of the package can be found on the ISTI Open Portal:
+https://openportal.isti.cnr.it/doc?id=people______::c2c785d4a891ba4a58fdff814b100b1d
+
+
+
+
+
